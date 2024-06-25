@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>
 <p align='center'>
 Creditmate
@@ -90,3 +91,6 @@ asdf local python
 - [ ] Reward collection (like CRED)
 - [ ] E-commerce offerings
 - [ ] Optimize Search (for geofencing too)
+=======
+# CreditMateOg
+>>>>>>> 2ff0a81293d3df895e6faf14682df2e6f572fdc7
